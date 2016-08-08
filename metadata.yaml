@@ -1,0 +1,58 @@
+_repo: The-Englishing-of-French-Words--the-Dialectal-Words-in-Blunden-s-Poems--13-Society-for-Pure-E__12524
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Matthews, Brander
+    aliases:
+    - Penn, Arthur
+    - Matthews, James Brander
+    - Matthews, J. Brander (James Brander)
+    birthdate: 1852
+    deathdate: 1929
+    gutenberg_agent_id: '1992'
+    url: http://www.gutenberg.org/2009/agents/1992
+    wikipedia: http://en.wikipedia.org/wiki/Brander_Matthews
+  - agent_name: Blunden, Edmund
+    aliases:
+    - Blunden, E. C. (Edmund Charles)
+    - Blunden, Edmund Charles
+    birthdate: 1896
+    deathdate: 1974
+    gutenberg_agent_id: '35250'
+    url: http://www.gutenberg.org/2009/agents/35250
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Blunden
+  - agent_name: Bridges, Robert
+    aliases:
+    - Bridges, R. (Robert)
+    - Bridges, Robert Seymour
+    birthdate: 1844
+    deathdate: 1930
+    gutenberg_agent_id: '5418'
+    url: http://www.gutenberg.org/2009/agents/5418
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Bridges
+creator:
+  author:
+    agent_name: Society for Pure English
+    alias: English, Society for Pure
+    gutenberg_agent_id: '4335'
+    url: http://www.gutenberg.org/2009/agents/4335
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12524'
+  lccn: '22008431'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Gallicisms'
+- !lcsh 'French language -- Influence on English'
+- !lcsh 'English language -- Foreign elements -- French'
+- !lcc 'PE'
+- !lcsh 'English language -- Dialects'
+- GITenberg
+title: "The Englishing of French Words; the Dialectal Words in Blunden's Poems\r\n\
+  Society for Pure English, Tract 05"
+url: http://www.gutenberg.org/ebooks/12524
