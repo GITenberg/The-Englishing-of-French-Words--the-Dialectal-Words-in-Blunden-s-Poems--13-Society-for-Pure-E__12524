@@ -1,5 +1,5 @@
 _repo: The-Englishing-of-French-Words--the-Dialectal-Words-in-Blunden-s-Poems--13-Society-for-Pure-E__12524
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributors:
   - agent_name: Matthews, Brander
@@ -30,6 +30,9 @@ contributor:
     gutenberg_agent_id: '5418'
     url: http://www.gutenberg.org/2009/agents/5418
     wikipedia: http://en.wikipedia.org/wiki/Robert_Bridges
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Society for Pure English
@@ -37,6 +40,8 @@ creator:
     gutenberg_agent_id: '4335'
     url: http://www.gutenberg.org/2009/agents/4335
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12524#The-Englishing-of-French-Words--the-Dialectal-Words-in-Blunden-s-Poems--13-Society-for-Pure-E_
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
